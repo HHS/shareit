@@ -1,5 +1,5 @@
 {
-  "name": "share-it-act-lp",
+  "name": "shareit",
   "version": "",
   "description": "Guide to the SHARE IT Act helping federal agencies comply with source code sharing requirements",
   "longDescription": "The Source Code Harmonization And Reuse in Information Technology Act (SHARE IT Act) requires federal agencies to share custom-developed software code, including metadata about the project, with each other to eliminate duplicative government work. This website provides comprehensive documentation that goes more in depth into the SHARE IT Act and provides tooling and guidance to help users become compliant.",
@@ -17,10 +17,10 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/DSACMS/share-it-act-lp",
+  "repositoryURL": "https://github.com/HHS/shareit",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
-  "homepageURL": "https://dsacms.github.io/share-it-act-lp/",
+  "homepageURL": "https://hhs.github.io/shareit",
   "downloadURL": "",
   "disclaimerURL": "",
   "disclaimerText": "",
@@ -48,7 +48,7 @@
   ],
   "maintenance": "internal",
   "contractNumber": [],
-  "SBOM": "https://github.com/DSACMS/share-it-act-lp/network/dependencies",
+  "SBOM": "https://github.com/HHS/shareit/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
@@ -69,7 +69,7 @@
     "email": "opensource@cms.hhs.gov",
     "name": "CMS Open Source Program Office"
   },
-  "feedbackMechanism": "https://github.com/DSACMS/share-it-act-lp/issues",
+  "feedbackMechanism": "https://github.com/HHS/shareit/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
